@@ -29,18 +29,18 @@ header {
     height: 620px;
     margin-bottom: 20px;
 }
-.block1{
+.block1 {
     background-color: #abcfe7;
     height: 95px;
     margin-bottom: 15px;
 }
-.col-left, .col-right{
+.col-left, .col-right {
     background-color: #abcfe7;
     width: 20%;
     float: left;
     min-height: 495px;
 }
-.col-middle{
+.col-middle {
     background-color: #abcfe7;
     width: calc(60% - 20px);
     min-height: 495px;
