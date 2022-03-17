@@ -1,0 +1,26 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Common */
+.container {
+    max-width: 1280px;
+    margin: auto;
+}
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+header {
+    background-color: #e579e6;
+    height: 120px;
+    margin-bottom: 20px;
+}
+.sezione1 {
+    background-color: #e1d67a;
+    height: 470px;
+    margin-bottom: 20px;
+}
